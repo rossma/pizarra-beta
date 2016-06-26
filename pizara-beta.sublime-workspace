@@ -1,0 +1,1295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getC",
+				"getClientCss"
+			],
+			[
+				"L",
+				"LIBS"
+			],
+			[
+				"command",
+				"command-xsd"
+			],
+			[
+				"METERC",
+				"meterConfigsExp"
+			],
+			[
+				"METER",
+				"MeterConfigRequest"
+			],
+			[
+				"I0",
+				"I029_firmwareUpgradeRequest"
+			],
+			[
+				"I02",
+				"I028_replacementSIMs"
+			],
+			[
+				"pat",
+				"path_to"
+			],
+			[
+				"DCC",
+				"DCCAdapter_Request_Schema_v1_0"
+			],
+			[
+				"unzip",
+				"unzip_birt"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"get",
+				"getParamName"
+			],
+			[
+				"is",
+				"isDefined"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vue/main.js",
+			"settings":
+			{
+				"buffer_size": 800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vue/components/phrase/Add.vue",
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vue/components/phrase/Form.vue",
+			"settings":
+			{
+				"buffer_size": 2497,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vue/App.vue",
+			"settings":
+			{
+				"buffer_size": 537,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vue/components/phrase/Edit.vue",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/eclipse/projects/play/pizarra-alpha/app/views/phrase/edit.scala.html",
+			"settings":
+			{
+				"buffer_size": 747,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/eclipse/projects/play/pizarra-alpha/app/views/helper/bootstrapInput.scala.html",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/eclipse/projects/play/pizarra-alpha/conf/routes",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vue/components/Home.vue",
+			"settings":
+			{
+				"buffer_size": 2963,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Indent XML"
+			],
+			[
+				"XML",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/eclipse/projects/play/pizarra-beta",
+		"/C/eclipse/projects/play/pizarra-beta/app",
+		"/C/eclipse/projects/play/pizarra-beta/conf",
+		"/C/eclipse/projects/play/pizarra-beta/vue",
+		"/C/eclipse/projects/play/pizarra-beta/vue/components",
+		"/C/eclipse/projects/play/pizarra-beta/vue/components/phrase"
+	],
+	"file_history":
+	[
+		"/C/eclipse/projects/play/pizarra-alpha/app/views/phrase/add.scala.html",
+		"/C/eclipse/projects/play/pizarra-beta/conf/routes",
+		"/C/eclipse/projects/play/pizarra-alpha/conf/routes",
+		"/C/eclipse/projects/play/pizarra-alpha/app/views/index.scala.html",
+		"/C/eclipse/projects/play/pizarra-alpha/app/assets/javascripts/app/home.js",
+		"/C/Users/mahonyr/.buildr/settings.yaml",
+		"/C/eclipse/projects/play/pizarra-beta/webpack.config.js",
+		"/C/eclipse/projects/play/pizarra-beta/vue/App.vue",
+		"/C/eclipse/projects/webpack/vue-ex1/src/App.vue",
+		"/C/eclipse/projects/play/pizarra-beta/app/controllers/HomeController.scala",
+		"/C/eclipse/projects/play/pizarra-alpha/app/assets/javascripts/main.js",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt21141.sql",
+		"/C/eclipse/projects/play/pizarra-alpha/public/stylesheets/main.css",
+		"/C/eclipse/projects/play/pizarra-alpha/app/views/main.scala.html",
+		"/C/eclipse/projects/webpack/vue-ex1/src/components/Hello.vue",
+		"/C/eclipse/projects/webpack/vue-ex1/src/main.js",
+		"/C/eclipse/projects/play/pizarra-beta/package.json",
+		"/C/eclipse/projects/play/pizarra-beta/vue/main.js",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/build.bat",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/Gemfile",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt26dca.scala",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/apo-sp-bsr/src/main/resources/MeterflowBusinessServiceInterface.xsd",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/cgi-dcca/src/main/resources/DCCAdapter_Response_Schema_v1_0.xsd",
+		"/Z/SP_METERFLOW/specs/DCCAdapter_Response_Schema_v1_0.xsd",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/handlers/requests/SMETS1/DumbToSmets1/SMETS1_BUG.xml",
+		"/C/eclipse/downloads/Meterflow.ora.ddl",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/handlers/src/main/scripts/sql/BP01_EXPECTED_READ_LOAD.sql",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt241c1.sql",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/resources/com/amtsybex/meterflow/web/jsf/messages/ApplicationResources_en.properties",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/WEB-INF/websphere-as-web.xml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART_REL/ui/build.bat",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/oracle/ServicePointDao.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/artifacts.rb",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/buildfile.rb",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/oracle/EquipmentHierarchyDao.java",
+		"/C/JBoss/EAP-6.4.0/modules/com/amtsybex/third-party/SMART/module.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/handlers/requests/SMETS1/DumbToSmets1/UI_DEBUG_TEST.xml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/model/SlaRowKey.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/oracle/ReportDao.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/model/ProcessStatusReport.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/oracle/ProcessDao.java",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt1d8011.java",
+		"/C/eclipse/disable_constraints.sql",
+		"/C/eclipse/enable_contraints.sql",
+		"/C/eclipse/sp_dev_constraints_20160519.sql",
+		"/C/eclipse/export_check_contraints.sql",
+		"/C/eclipse/downloads/README.md",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_EXT_RLS/nexus/db/catalogue/src/sql/disable_constraints.sql",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_EXT_RLS/nexus/db/catalogue/src/sql/enable_constraints.sql",
+		"/C/eclipse/sp_dev1.sql",
+		"/C/eclipse/projects/vue/ex1.html",
+		"/C/eclipse/projects/vue/vue.js",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/constants.rb",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/java/com/amtsybex/meterflow/web/jsf/util/GlobalConfigs.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/WEB-INF/jboss-as-web.xml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/profiles.yaml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/model/RoleGroup.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/java/com/amtsybex/meterflow/web/view/admin/user/UserGroupAdmin.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/java/com/amtsybex/meterflow/web/view/event/EventSearch.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/java/com/amtsybex/meterflow/web/view/process/create/CommandRequestCreate.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/resources/css/scottishpower.css",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/WEB-INF/templates/layout.xhtml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/resources/css/main.css",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/java/com/amtsybex/meterflow/web/view/admin/config/Event.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/java/com/amtsybex/meterflow/web/view/admin/config/EquipmentModel.java",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/resources/xsd/UserGroupProfile.xsd",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/smart/equipment/sms-hierarchy.xhtml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/resources/primefaces-default/theme.css",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/resources/css/scottishpower.css.css",
+		"/C/JBoss/SP_SMART/standalone/configuration/standalone.xml",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_CORE_RLS/web/war/src/main/webapp/WEB-INF/websphere-web.xml",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_CORE_RLS/web/war/src/main/webapp/WEB-INF/gazprom-cfg-web.xml",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_CORE_RLS/web/war/src/main/webapp/WEB-INF/xoserve-cfg-web.xml",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_CORE_RLS/build/constants.rb",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_CORE_RLS/build/profiles.yaml",
+		"/C/eclipse/streams/NXGAZPROM/NXGAZPROM_CORE_RLS/web/buildfile.rb",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/resources/css/default/main.css",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt174019.css",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/war/src/main/webapp/WEB-INF/includes/equipment/panel-details.xhtml",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt174010.scala",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/apo-sp-bsr/src/main/scala/com/amtsybex/meterflow/bsr/BSRClient.scala",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/exadata-poc/src/main/scala/com/amtsybex/dts/ProcessInstance.scala",
+		"/C/eclipse/tmp_local.csv",
+		"/C/eclipse/tmp2.csv",
+		"/C/ZeroTurnaround/jrebel_6_3_2/jrebel.lic",
+		"/C/JBoss/SP_SMART/startServer.bat",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/instantenergy.sim/config/4.9.0/xsd/Incoming.xsd",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/cgi-ie/src/main/resources/registerReadsExp.xsd",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/cgi-ie/target/generated-sources/cxf/com/logica/instantenergy/instantenergycallable/external/ResponseCode.java",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/cgi-ie/src/main/resources/PublicWebServices - Outgoing (IE Release 4.9.0).wsdl",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/ora_process_report.xml",
+		"/C/Users/mahonyr/AppData/Roaming/Skype/My Skype Received Files/ora_process_report.xml",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt27f819.scala",
+		"/C/Users/mahonyr/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/PEQS8HH0/SystemParameters.scala",
+		"/C/eclipse/jruby-1.7.22/lib/ruby/gems/shared/gems/buildr-1.4.24-java/spec/core/transport_spec.rb",
+		"/C/eclipse/jruby-1.7.22/lib/ruby/gems/shared/gems/buildr-1.4.24-java/lib/buildr/core/compile.rb",
+		"/C/eclipse/jruby-1.7.22/lib/ruby/gems/shared/gems/buildr-1.4.24-java/lib/buildr/core/transports.rb",
+		"/C/eclipse/jruby-1.7.22/lib/ruby/gems/shared/gems/buildr-1.4.24-java/spec/core/common_spec.rb",
+		"/C/Users/mahonyr/Desktop/10483518/10483518.txt",
+		"/C/Users/mahonyr/Desktop/10483117/10483117.txt",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/scripts/create_jobs.ora.sql",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/scripts/create_packages.ora.ddl",
+		"/C/Users/mahonyr/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/PEQS8HH0/CreateMeterflowData_IENew.sql",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/ddl-gen/profiles.yaml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/apo-cgi-dcca/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/apo-cgi-ie/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/apo-sap-ami/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/apo-sp-bsr/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/exadata-poc/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/handlers/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/sap-ami/pom.xml",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/patches/rel1.9.0/rel1.9.0.sql",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/scripts/create_view.ora.ddl",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/patches/rel1.8.0/rel1.8.0.sql",
+		"/C/eclipse/downloads/Meterflow.ora (2).ddl",
+		"/C/eclipse/releases/rel1.8.0.sql",
+		"/C/eclipse/downloads/Meterflow.ora (1).ddl",
+		"/C/eclipse/releases/inserts_rel1.8.0.sql",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/service/src/main/java/com/amtsybex/meterflow/service/db/oracle/UserDao.java",
+		"/C/JBoss/EAP-6.4.0/modules/com/oracle/main/module.xml",
+		"/C/JBoss/EAP-6.4.0/modules/com/amtsybex/third-party/main/module.xml",
+		"/C/eclipse/streams/SP_METERFLOW/DCCA/handlers/requests/BP6/CyclicRead/BP6_IE_CYCLIC_READ_000173.xml",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt26d01d.scala",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/db/new_report_export.xml",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt26d01f.scala",
+		"/C/eclipse/streams/SP_METERFLOW/SP_SMART/ui/command-xsd/src/main/java/DummyBuildClass.java",
+		"/C/Users/mahonyr/AppData/Local/Temp/pt26d08.scala",
+		"/Z/tmp/eclipse-projects/ftp-client/jar/src/main/java/com/amtsybex/net/NetFtpClient2.java"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"<open folders>, *.sql",
+			"<open folders>, *.java",
+			"<open folders>, *.sql",
+			"<open folders>, *.java",
+			"<open folders>, *.sql",
+			"c:\\eclipse\\sp_dev1.sql",
+			"c:\\eclipse\\sp_dev_constraints_20160519.sql",
+			"<open folders>, c:\\eclipse\\sp_dev_constraints_20160519.sql",
+			"<open folders>, *.xhtml, *.java",
+			"<open folders>, *.xhtml, *.java, *.xsd",
+			"<open folders>, *.xhtml, *.java",
+			"<open folders>, *.xhtml",
+			"<open folders>, *.css",
+			"<open folders>, *.scala",
+			"<open folders>, *.xsd,C:\\eclipse\\streams\\SP_METERFLOW\\DCCA",
+			"<open folders>, *.java,C:\\eclipse\\streams\\SP_METERFLOW\\DCCA",
+			"<open folders>, *.java",
+			"<open folders>, *.java#",
+			"<open folders>, *.rb,C:\\eclipse\\jruby-1.7.22\\lib\\ruby\\gems\\shared\\gems\\buildr-1.4.24-java",
+			"<open folders>, *",
+			"<open folders>, *.sql",
+			"<open folders>, pom.xml",
+			"<open folders>, *.java",
+			"<open folders>, *",
+			"<open folders>, *.scala",
+			"<open folders>, *.rb",
+			"<open folders>, C:\\eclipse\\jruby-1.7.22\\lib\\ruby\\gems\\shared\\gems\\buildr-1.4.23-java, *.rb",
+			"<open folders>, **/command-xsd/**/*.xjb",
+			"<open folders>, *.java, *.xsd, *.xml",
+			"<open folders>, *.java, *.xsd",
+			"<open folders>, *.java",
+			"<open folders>, *.xhtml",
+			"<open folders>, *.java",
+			"<open folders>, *.conf",
+			"<open folders>, *.scala",
+			"<open folders>, *.java",
+			"<open folders>, *.scala",
+			"<open folders>, *.wsdl",
+			"<open folders>, *",
+			"<open folders>, *.xml, *.wsdl",
+			"<open folders>, *.java",
+			"<open folders>, *.scala, *.java",
+			"<open folders>, *",
+			"<open folders>, *,-*.xml*,-*.sc,-**/dcca.sim/*",
+			"<open folders>, *,-*.xml*,-*.sc,-**/dcca-sim/*",
+			"<open folders>, *,-*.xml*,-*.sc",
+			"<open folders>, *,-*.xml,-*.sc",
+			"<open folders>, *,-*.xml",
+			"<open folders>, *",
+			"<open folders>, *.conf",
+			"<open folders>, *.xhtml",
+			"<open folders>, *.java",
+			"<open folders>, *.xhtml",
+			"<open folders>, *.properties",
+			"*.java,<open folders>",
+			"*.java,*.xml",
+			"*.java",
+			"*.scala",
+			"*.java",
+			"*.conf",
+			"*.scala",
+			"*.scala,*.xsd,*.xml",
+			"*.zml",
+			"*.scala",
+			"*.xjb",
+			"*.bindings",
+			"*.xsd",
+			"*",
+			"*.xjb",
+			"*.scala",
+			"*.java",
+			"*enum*.java",
+			"*.java",
+			"*.xhtml",
+			"*dao*.java",
+			"*.java",
+			"*.xml",
+			"*.java"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"router",
+			"length",
+			"log",
+			"          ",
+			"logo",
+			"bootstr",
+			"proxy",
+			"elecor",
+			"AssetWorkElecOrGasDetailsType",
+			"responsecode",
+			"joinResponseCode",
+			"build",
+			"ServiceReference",
+			"PriceChangeResponseParameters",
+			"UnjoinServiceCriticalRsp",
+			"unjoin",
+			"BP01_EXPECTED_READ_LOAD",
+			"procedure",
+			"MeterflowError",
+			"JoinServiceNonCritical",
+			"event_categories",
+			"event_category",
+			"event",
+			"EQUIP_HRCHY_BY_EFFECTIVE_DATE_SELECT_SQL",
+			"equip_hrchy",
+			"libs",
+			"oracle",
+			"dcc_prdct_swtch_grp",
+			"bp06_rtry_cf",
+			"RateMissing",
+			"Rate",
+			"ProcessStatusReport",
+			"ProcessMessage",
+			"ProcessStatusReport",
+			"ProcessMessage",
+			"PanelInfo",
+			"IeReadSchedule",
+			"IeProductSwitchGroup",
+			"IeFuncDef",
+			"IeFirmwareFunc",
+			"DeviceParameter",
+			"CommandType",
+			"UnitOfMeasure",
+			"SlaRow",
+			"SlaRowKey",
+			"Failure",
+			"USR_GRP",
+			"MTR_EVNT_STG",
+			"IO_MSG_OID",
+			"\n\n\n",
+			"--------------------------------------------------------------------------------",
+			"C.CONSTRAINT_NAME||'-'||C.TABLE_NAME||'-'||CC.COLUMN_NAME",
+			"\n\n\n",
+			"--------------------------------------------------------------------------------",
+			"C.CONSTRAINT_NAME||'-'||C.TABLE_NAME||'-'||CC.COLUMN_NAME",
+			"\n\n\n",
+			"C.CONSTRAINT_NAME||'-'||C.TABLE_NAME||'-'||CC.COLUMN_NAME",
+			"--------------------------------------------------------------------------------",
+			"PROC_TYP_",
+			"PROC_TYP_UK1",
+			"PROC_TYP_",
+			"  USING INDEX  ENABLE;",
+			"using inde",
+			"PROC_TYP_UK1",
+			"SYS_C0016074",
+			"PROC_TYP_UK1",
+			".* PRIMARY KEY .*",
+			"pk",
+			"\"LOC\"",
+			"\\n",
+			"DDL for Table ",
+			"DDL for Table (.*)",
+			"/^DDL for Table .*",
+			"--  DDL for Table ",
+			"BSR_ERR_CAT",
+			"BP01_RPRT_MNTR",
+			"BP01_RPRT_MNTR\n",
+			"AKKA_SNAPSHOT",
+			"sys_",
+			"unauthorised",
+			"UserGroupProfileControlPropertyType",
+			"EVENTS",
+			"them",
+			"CLIENT_CSS_NOT_DEFINED",
+			"CLIENT_CSS",
+			"client",
+			"CurrentTheme",
+			"DEFAULT_THEME",
+			"dhtmlx.THEME",
+			"client",
+			"CLIENT",
+			"ENV",
+			"env",
+			"fancy-line",
+			"client-logo",
+			"equipmentrefextractor",
+			",\\n",
+			",,",
+			"\\s",
+			"\\n",
+			"\\s",
+			"TABLE_NAME                                                                      \n--------------------------------------------------------------------------------\nCONSTRAINT_NAME                                                                 \n--------------------------------------------------------------------------------",
+			"\\n",
+			",,",
+			"\\s",
+			"\\n",
+			"\\n[^ ]",
+			"\\n.",
+			"TABLE_NAME                                                                      \n--------------------------------------------------------------------------------\nCONSTRAINT_NAME                                                                 \n--------------------------------------------------------------------------------",
+			"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+			"\\n",
+			"                                                                                ",
+			"\\n",
+			"registerread",
+			"ALREADY_UNDERGONE_COS_GAIN",
+			"responseCode",
+			"ALREADY_UNDERGONE_COS_GAIN",
+			"responsecode",
+			"INVALID_MPXN_NUMBER",
+			"'IEOuterWindowQuery; reads found = ",
+			"123457000144",
+			"123457000140",
+			" Sending bulk response, cyclicBatchResponseVolume:[2], meterReadings.size",
+			"puts",
+			"read_timeout",
+			"http",
+			"HTTP.start",
+			"start"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"','",
+			"",
+			"\\n",
+			"",
+			",\\n",
+			"",
+			",\\n",
+			"\\n",
+			"",
+			"\\n,",
+			",",
+			"",
+			"\\n",
+			",",
+			"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+			",",
+			"1.9.0-SNAPSHOT",
+			"1.8.0",
+			"task.name",
+			"",
+			":target, :resources, '",
+			":target, :resources",
+			"gen_dir",
+			"/",
+			"localhost",
+			" ",
+			"",
+			"metertmp",
+			"",
+			"E:\\ScottishPower-Meterflow\\IE\\",
+			"C:\\eclipse\\streams\\SP_METERFLOW\\DCCA\\cgi-ie\\src\\main\\resources",
+			"C:\\eclipse\\streams\\SP_METERFLOW\\DCCA\\apo-cgi-ie\\src\\main\\resources",
+			"%JBOSS_HOME%"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vue/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vue/components/phrase/Add.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vue/components/phrase/Form.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2497,
+								2497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 516.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "vue/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vue/components/phrase/Edit.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/eclipse/projects/play/pizarra-alpha/app/views/phrase/edit.scala.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/eclipse/projects/play/pizarra-alpha/app/views/helper/bootstrapInput.scala.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/eclipse/projects/play/pizarra-alpha/conf/routes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "vue/components/Home.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 260.0
+	},
+	"pinned_build_system": "",
+	"project": "pizara-beta.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"SP_SMART\\ui\\build.bat"
+			],
+			[
+				"buildfile",
+				"SP_SMART\\ui\\buildfile.rb"
+			],
+			[
+				"artif",
+				"SP_SMART\\ui\\artifacts.rb"
+			],
+			[
+				"slarow",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\SlaRowKey.java"
+			],
+			[
+				"artifa",
+				"SP_SMART\\ui\\artifacts.rb"
+			],
+			[
+				"userda",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\UserDao.java"
+			],
+			[
+				"artifac",
+				"SP_SMART\\ui\\artifacts.rb"
+			],
+			[
+				"pom",
+				"DCCA\\exadata-poc\\pom.xml"
+			],
+			[
+				"globalco",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\jsf\\util\\GlobalConfigs.java"
+			],
+			[
+				"jboss-as",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\WEB-INF\\jboss-as-web.xml"
+			],
+			[
+				"processda",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\ProcessDao.java"
+			],
+			[
+				"processdeta",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\view\\process\\ProcessDetails.java"
+			],
+			[
+				"details",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\smart\\process\\details.xhtml"
+			],
+			[
+				"jboss-web",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\WEB-INF\\jboss-as-web.xml"
+			],
+			[
+				"index",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\index.html"
+			],
+			[
+				"index.",
+				"DCCA\\bsr.stub\\src\\main\\resources\\index.html"
+			],
+			[
+				"profiles",
+				"SP_SMART\\ui\\profiles.yaml"
+			],
+			[
+				"processdao",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\ProcessDao.java"
+			],
+			[
+				"processserv",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\ProcessService.java"
+			],
+			[
+				"processutil",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\view\\process\\ProcessUtil.java"
+			],
+			[
+				"app",
+				"DCCA\\handlers\\src\\main\\resources\\application.conf"
+			],
+			[
+				"meterre",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\MeterRegisterDao.java"
+			],
+			[
+				"tempor",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\TemporalRange.java"
+			],
+			[
+				"panel-details",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\WEB-INF\\includes\\equipment\\panel-details.xhtml"
+			],
+			[
+				"websphere-we",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\WEB-INF\\websphere-as-web.xml"
+			],
+			[
+				"publicwe",
+				"DCCA\\instantenergy.sim\\config\\4.9.0\\PublicWebServices - Incoming (IE Release 4.9.0).wsdl"
+			],
+			[
+				"meteracc",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\scottishpower\\db\\MeterAccess.scala"
+			],
+			[
+				"package",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\scottishpower\\package.scala"
+			],
+			[
+				"dccarequestondemandreadasync",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\scottishpower\\process\\bp6\\DCCARequestOnDemandReadAsync.scala"
+			],
+			[
+				"oracleerroraccess",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\db\\oracle\\OracleErrorAccess.scala"
+			],
+			[
+				"equipmenttye",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\EquipmentType.java"
+			],
+			[
+				"meter.sca",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\Meter.scala"
+			],
+			[
+				"i019",
+				"DCCA\\instantenergy.sim\\config\\4.9.0\\xsd\\I019_meterInstallsExp.xsd"
+			],
+			[
+				"assetwor",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\scottishpower\\process\\smets1\\AssetWorks.scala"
+			],
+			[
+				"sys-param",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\admin\\config\\sys-param.xhtml"
+			],
+			[
+				"sysparam",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\view\\admin\\config\\SystemParameters.java"
+			],
+			[
+				"refer",
+				"DCCA\\exadata-poc\\src\\main\\resources\\reference.conf"
+			],
+			[
+				"applica",
+				"DCCA\\exadata-poc\\src\\main\\resources\\application.conf"
+			],
+			[
+				"marketp",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\MarketParticipant.java"
+			],
+			[
+				"meterconfigura",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\MeterConfiguration.java"
+			],
+			[
+				"metersea",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\view\\meter\\MeterSearch.java"
+			],
+			[
+				"meterregister",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\MeterRegisterDao.java"
+			],
+			[
+				"equipmenth",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\EquipmentHierarchyDao.java"
+			],
+			[
+				"equipmenthr",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\EquipmentHierarchy.java"
+			],
+			[
+				"equipmentd",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\EquipmentDao.java"
+			],
+			[
+				"temp",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\BaseTemporal.java"
+			],
+			[
+				"modeldao",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\oracle\\ModelDao.java"
+			],
+			[
+				"global",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\jsf\\util\\GlobalConfigs.java"
+			],
+			[
+				"dccaclient",
+				"DCCA\\apo-cgi-dcca\\src\\main\\scala\\com\\amtsybex\\meterflow\\dcca\\DCCAClient.scala"
+			],
+			[
+				"dccacl",
+				"DCCA\\apo-cgi-dcca\\src\\main\\scala\\com\\amtsybex\\meterflow\\dcca\\DCCAClient.scala"
+			],
+			[
+				"refe",
+				"DCCA\\exadata-poc\\src\\main\\resources\\reference.conf"
+			],
+			[
+				"meterflow.sca",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\Meterflow.scala"
+			],
+			[
+				"meterflowerror",
+				"SP_SMART\\ui\\service\\src\\main\\java\\com\\amtsybex\\meterflow\\service\\db\\model\\MeterflowError.java"
+			],
+			[
+				"ieex",
+				"DCCA\\apo-cgi-ie\\src\\main\\scala\\com\\amtsybex\\meterflow\\ie\\IEExtension.scala"
+			],
+			[
+				"servicereference",
+				"DCCA\\apo-cgi-dcca\\src\\main\\scala\\com\\amtsybex\\meterflow\\dcca\\ServiceReference.scala"
+			],
+			[
+				"iewsrequest",
+				"DCCA\\apo-cgi-ie\\src\\main\\scala\\com\\amtsybex\\meterflow\\ie\\IEWSRequest.scala"
+			],
+			[
+				"externalinterface",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\ExternalInterface.scala"
+			],
+			[
+				"i0372",
+				"DCCA\\instantenergy.sim\\config\\4.9.0\\generated_xml\\I0372.xml"
+			],
+			[
+				"037",
+				"DCCA\\instantenergy.sim\\config\\4.9.0\\generated_xml\\I0371.xml"
+			],
+			[
+				"iewsre",
+				"DCCA\\apo-cgi-ie\\src\\main\\scala\\com\\amtsybex\\meterflow\\ie\\IEWSRequest.scala"
+			],
+			[
+				"ieinputfile",
+				"DCCA\\apo-cgi-ie\\src\\main\\scala\\com\\amtsybex\\meterflow\\ie\\IEInputFile.scala"
+			],
+			[
+				"ieclient",
+				"DCCA\\apo-cgi-ie\\src\\main\\scala\\com\\amtsybex\\meterflow\\ie\\IEClient.scala"
+			],
+			[
+				"iews",
+				"DCCA\\apo-cgi-ie\\src\\main\\scala\\com\\amtsybex\\meterflow\\ie\\IEWSRequest.scala"
+			],
+			[
+				"meterflow.scal",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\Meterflow.scala"
+			],
+			[
+				"dtsoid",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\DtsOid.scala"
+			],
+			[
+				"meter.",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\Meter.scala"
+			],
+			[
+				"assign",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\scottishpower\\process\\bp5\\AssignReadScheduleAsync.scala"
+			],
+			[
+				"oracledspscheduleaccess",
+				"DCCA\\apo-cgi-dcca\\src\\main\\scala\\com\\amtsybex\\dts\\db\\oracle\\OracleDSPScheduleAccess.scala"
+			],
+			[
+				"ieas",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\scottishpower\\process\\bp5\\IEAssignReadSchedule.scala"
+			],
+			[
+				"meterflowprocess",
+				"DCCA\\apo-sp-bsr\\src\\main\\scala\\com\\amtsybex\\meterflow\\bsr\\MeterflowProcess.scala"
+			],
+			[
+				"bsrresponse",
+				"DCCA\\apo-sp-bsr\\src\\main\\scala\\com\\amtsybex\\meterflow\\bsr\\BSRResponse.scala"
+			],
+			[
+				"meterflowbusiness",
+				"DCCA\\apo-sp-bsr\\src\\main\\resources\\MeterflowBusinessServiceInterface.xsd"
+			],
+			[
+				"dailyconsumptionloghandler",
+				"DCCA\\handlers\\src\\main\\scala\\com\\amtsybex\\cgi\\dcca\\handlers\\schd\\DailyConsumptionLogHandler.scala"
+			],
+			[
+				"errorca",
+				"DCCA\\apo-sp-bsr\\src\\main\\scala\\com\\amtsybex\\meterflow\\bsr\\ErrorCategoriser.scala"
+			],
+			[
+				"tab",
+				"SP_SMART\\ui\\war\\target\\webapp\\WEB-INF\\includes\\process\\tab.xhtml"
+			],
+			[
+				"panel-de",
+				"SP_SMART\\ui\\war\\target\\webapp\\WEB-INF\\includes\\equipment\\panel-details.xhtml"
+			],
+			[
+				"ansimeterequipmentaccess",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\db\\ansi\\ANSIMeterEquipmentAccess.scala"
+			],
+			[
+				"meterequipmentaccess",
+				"DCCA\\exadata-poc\\src\\main\\scala\\com\\amtsybex\\dts\\MeterEquipmentAccess.scala"
+			],
+			[
+				"pretty",
+				"SP_SMART\\ui\\war\\src\\main\\java\\com\\amtsybex\\meterflow\\web\\jsf\\util\\XmlPrettyFormatter.java"
+			],
+			[
+				"dhtmlxtreegrid.css",
+				"SP_SMART\\ui\\war\\src\\main\\webapp\\resources\\dhtmlx\\default\\dhtmlxtreegrid.css"
+			],
+			[
+				"jboss",
+				"SP_SMART\\appserv-jboss-eap\\JBossServerConfigSetup.sh"
+			],
+			[
+				"connectionpointdt",
+				"DCCA\\exadata-poc\\target\\generated-sources\\jaxb\\com\\amtsybex\\meterflow\\bsr\\ConnectionPointDT.java"
+			],
+			[
+				"smets1assetworkstarttype",
+				"DCCA\\exadata-poc\\target\\generated-sources\\jaxb\\com\\amtsybex\\meterflow\\bsr\\SMETS1AssetWorkStartType.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\eclipse\\streams\\SP_METERFLOW\\sp_meterflow.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 45.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1099.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 552.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

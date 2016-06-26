@@ -1,0 +1,13 @@
+# --- !Ups
+
+CREATE TABLE PHRASE (
+    ID bigint(20) NOT NULL AUTO_INCREMENT,
+    SPANISH varchar(255) NOT NULL,
+    ENGLISH varchar(255) NOT NULL,
+    CREATED_AT datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (id)
+);
+
+# --- !Downs
+
+DROP TABLE PHRASE;
