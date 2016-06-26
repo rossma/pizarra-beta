@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="heading">
-    <h1>¡Buenos días!</h1>
-        <img class="logo" src="../images/whiteboard.png">
+      <h1>¡Buenos días!</h1>
+      <img class="logo" src="../images/whiteboard.png" />
     </div>
         
     <div class="alert alert-info">
