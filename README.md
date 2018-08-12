@@ -13,7 +13,7 @@ This application is used to showcase the Play Framework along with these other l
 ## Installation
 
 This application uses Play 2.5 and Vue.js. 
-* Install Activator 1.3.10
+* Install SBT
 * Install Node.js
 * Run `npm install`
 
@@ -21,16 +21,16 @@ This application uses Play 2.5 and Vue.js.
 
 ### Dev Mode
 
-* Run: `activator ~run`
+* Run: `sbt ~run`
 * Run: `webpack --watch`
 * Go to [localhost:9000](http://localhost:9000)
 
 ### Prod Mode
 
-* Run `activator testProd`
+* Run `sbt testProd`
 
 Deployment:
 
-* Produce executable via `activator clean dist`
+* Produce executable via `sbt clean dist`
 * Extract `unzip target/universal/pizarra-beta-1.0.0.zip`
 * Run `pizarra-beta-1.0.0/bin/pizarra-beta -Dhttp.port=9000 -Dconfig.resource=prod.conf`
